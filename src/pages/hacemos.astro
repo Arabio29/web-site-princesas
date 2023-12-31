@@ -1,0 +1,29 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Carrusel from '../components/Carrusel.astro';
+import Galeria from '../components/Galeria.astro';
+
+
+---
+
+<Layout title="Que hacemos">
+	<main>
+		
+		<h1>Qué <span class="text-gradient">hacemos</span></h1>
+
+		<Galeria />
+
+	</main>
+</Layout>
+
+<style>
+	main {
+		margin: auto;
+		padding: 1rem;
+		width: 1200px;
+		max-width: calc(100% - 2rem);
+		color: #52B5FD;
+		font-size: 20px;
+		line-height: 1.6;
+	}
+</style>
