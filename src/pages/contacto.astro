@@ -1,4 +1,5 @@
 ---
+import Form from '../components/Form.astro';
 import Layout from '../layouts/Layout.astro';
 ---
 
@@ -6,7 +7,15 @@ import Layout from '../layouts/Layout.astro';
 	<main>
 		
 		<h1><span class="text-gradient">Contacto</span></h1>
-        
+        <div class="bg-gray-900 flex w-full h-screen" >
+			<div class="w-full flex items-center justify-center">
+				<Form />
+			</div>
+			<div class="hidden lg:flex h-full w-1/2 relative items-center justify-center bg-gray-50">
+			  <div class="w-60 h-60 bg-gradient-to-tr from-violet-500 to pink-500 rounded-full animate-spin "/>
+			  <div class="w-full h-1/2 absolute bottom-0 bg-white/10 backdrop-blur-lg"/>
+			</div>
+		  </div>
 	</main>
 </Layout>
 
