@@ -1,44 +1,39 @@
 ---
 draft: false
-title: "How to become a Frontend Master"
+title: "Canción de prevención sobre la trata de personas"
 snippet: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
 image: {
-    src: "https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?&fit=crop&w=430&h=240",
-    alt: "frontend master"
+    src: "https://scontent-bog2-1.xx.fbcdn.net/v/t39.30808-6/345435755_785972596383976_1636374490020945089_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeEk0yA3oETot3YAAmvST0Y0CrOYkK4Fkv4Ks5iQrgWS_grJdmROL3IoBI6QdbtIre2cRZCSBD0VfUwJcUMV5TL_&_nc_ohc=vgpXmDKKCY4AX_rwTlk&_nc_ht=scontent-bog2-1.xx&oh=00_AfA9elG2-GM3kqLb8cPbv4NVD-aUIC2tp7q_LOj8KZUZIA&oe=659A3768",
+    alt: "cancion trata"
 }
-publishDate: "2022-11-07 15:39"
-category: "Tutorials"
-author: "Connor Lopez"
-tags: [astro, tailwindcss, frontend]
+publishDate: "2023-11-07 15:39"
+category: "Noticias"
+author: "Eliasib Cantor"
+tags: [trata, cúcuta, princesasguerreras, reactivxs]
 ---
 
-Whatever you do, it's always beneficial to have the right tools at your disposal. I love working remotely and am a big advocate of doing remote software development. Therefore, I always strive to have the best equipment available to be as productive as possible. Writing posts like this constantly takes a lot of time. Luckily iVanky helped me out and sponsored this post so that I can concentrate on writing. I recently had the chance to test out one of their hottest products, a dual USB-C Docking Station that allows me to connect both my wide-screen monitors to my MacBook with Dual 4K@60Hz display connectivity. It also supports up to 96W laptop charging, which is awesome. If you are in a situation like me and want to upgrade your equipment, check out this and their other products! And now comes the article:
+En la incansable misión de la Fundación Princesas Guerreras por impulsar el empoderamiento femenino y promover la paz en los territorios, se ha llevado a cabo una valiosa colaboración con Red Integral por los Derechos Humanos. Una campaña crucial para prevenir la trata de personas ha encontrado su voz a través de la música, en la potente canción titulada "Trata", creada por la banda Reactivxs.<br>
+<br>
+Esta inspiradora iniciativa musical ha sido liderada por el talentoso pianista de la banda, quien también se desempeña como profesor de música y entrenador de fútbol en la Fundación Princesas Guerreras. Esta combinación única de habilidades ha permitido no solo la creación de una pieza musical excepcional, sino también la difusión de un mensaje poderoso y esencial.<br>
+<br>
+"Trata" no es simplemente una melodía; es un himno que busca despertar conciencias, un llamado a la acción en la lucha contra uno de los crímenes más desgarradores y deshumanizadores de nuestra sociedad: la trata de personas. La música, con su capacidad innata para conectar emociones y transmitir mensajes, se ha convertido en una herramienta clave en la búsqueda de la sensibilización y la prevención.<br>
+<br>
+Esta colaboración ha demostrado el potencial transformador de unir fuerzas. La Fundación Princesas Guerreras, con su enfoque en el empoderamiento femenino, y Red Integral por los Derechos Humanos, abanderando la defensa de los más vulnerables, han creado un frente unido contra la trata de personas. La música, en este caso, ha sido el vehículo perfecto para llevar este mensaje a un público más amplio, sensibilizando a la comunidad y generando conciencia sobre esta problemática.<br>
+<br>
+La canción "Trata" no solo resuena con acordes y letras cautivadoras, sino que representa la voz de aquellos que luchan por un mundo más justo y equitativo. Es un recordatorio de que juntos, con determinación y solidaridad, podemos marcar la diferencia en la erradicación de esta atrocidad.<br>
+<br>
+En definitiva, esta colaboración musical no solo destaca la importancia del arte como medio de sensibilización, sino que también resalta el compromiso inquebrantable de la Fundación Princesas Guerreras y Red Integral por los Derechos Humanos en la defensa de los derechos fundamentales y la construcción de un futuro donde la dignidad humana prevalezca sobre cualquier forma de explotación.<br>
+<br>
+La canción "Trata" es mucho más que música; es el eco de un llamado urgente a la acción, uniendo fuerzas para detener la trata de personas y construir un mundo más seguro y justo para todos.<br>
+<br>
+¡Únete a esta causa, haz que esta melodía sea escuchada y contribuye a la prevención de la trata de personas!<br>
+<br>
 
-Whether you are new to programming or already an experienced developer. In this industry, learning new concepts and languages/frameworks is
-mandatory to keep up with the rapid changes. Take for example React - open-sourced by Facebook just a shy 4 years ago it already became the number one choice for JavaScript devs around the globe. But also Vue and Angular, of course, have their legitimate follower-base. And then there is Svelte, and universal frameworks like Next.js or Nuxt.js, and Gatsby, and Gridsome, and Quasar, and and and. If you want to shine as an expert JavaScript developer you should at least have some experience in different frameworks and libraries - besides doing your homework with good, old JS.
+## Escucha la canción<br>
+<br>
+<iframe width="770" height="400" src="https://www.youtube.com/embed/xbC1_FkP6PY" title="Trata" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-To help you become Frontend Masters, I have collected 9 different projects, each with a distinct topic and a different JavaScript framework or library as a tech stack that you can build and add to your portfolio. Remember, nothing helps you more than actually building stuff so go ahead, sharpen your mind and make this happen!
 
-## Dictum integer fusce ac ridiculus
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit euismod rutrum, consequat fringilla ultricies nullam curae mollis semper conubia viverra, orci aenean dapibus pharetra nec tortor tellus cubilia. Ullamcorper mi lectus eu malesuada tempor massa praesent magna mattis posuere, lobortis vulputate ut duis magnis parturient habitant nibh id tristique, quis suspendisse donec nisl penatibus sem non feugiat taciti. Mollis per ridiculus integer cursus semper vestibulum fermentum penatibus cubilia blandit scelerisque, tempus platea leo posuere ac pharetra volutpat aliquet euismod id ullamcorper lobortis, urna est magna mus rhoncus massa curae libero praesent eget. Mattis malesuada vestibulum quis ac nam phasellus suscipit facilisis libero diam posuere, cursus massa vehicula neque imperdiet tincidunt dui egestas lacinia mollis aliquet orci, nisl curabitur dapibus litora dis cum nostra montes ligula praesent. Facilisi aliquam convallis molestie tempor blandit ultricies bibendum parturient cubilia quam, porttitor morbi torquent tempus taciti nec faucibus elementum phasellus, quis inceptos vestibulum gravida augue potenti eget nunc maecenas. Tempor facilisis ligula volutpat habitant consequat inceptos orci per potenti blandit platea, mus sapien eget vel libero vestibulum augue cubilia ut ultrices fringilla lectus, imperdiet pellentesque cum ridiculus convallis sollicitudin nisl interdum semper felis.
 
-Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti augue nulla vivamus senectus odio, quisque curabitur enim consequat class sociis feugiat ullamcorper, felis dis imperdiet cubilia commodo sed massa phasellus. Viverra purus mus nisi condimentum dui vehicula facilisis turpis, habitant nascetur lectus tempor quisque habitasse urna scelerisque, nibh nullam vestibulum luctus aenean mollis metus. Suscipit gravida duis nec aliquet natoque molestie a ridiculus scelerisque cum, justo cursus sapien sodales purus dignissim vel facilisi magnis, inceptos rutrum ut integer auctor commodo sollicitudin fames et. Faucibus ligula nibh sagittis mauris auctor posuere habitant, scelerisque phasellus accumsan egestas gravida viverra nam, sed etiam eleifend proin massa dictumst. Porttitor risus luctus per aenean tellus primis fringilla vitae fames lacinia mauris metus, nec pulvinar quisque commodo sodales ac nibh natoque phasellus semper placerat. Lectus aenean potenti leo sollicitudin tristique eros quam ligula, vestibulum diam consequat enim torquent nec tempus, blandit viverra dapibus eleifend dis nunc nascetur.
 
-## Sodales hendrerit malesuada et vestibulum
-
-- Luctus euismod pretium nisi et, est dui enim.
-
-- Curae eget inceptos malesuada, fermentum class.
-
-- Porttitor vestibulum aliquam porta feugiat velit, potenti eu placerat.
-
-- Ligula lacus tempus ac porta, vel litora.
-
-Torquent non nisi lacinia faucibus nibh tortor taciti commodo porttitor, mus hendrerit id leo scelerisque mollis habitasse orci tristique aptent, lacus at molestie cubilia facilisis porta accumsan condimentum. Metus lacus suscipit porttitor integer facilisi torquent, nostra nulla platea at natoque varius venenatis, id quam pharetra aliquam leo. Dictum orci himenaeos quam mi fusce lacinia maecenas ac magna eleifend laoreet, vivamus enim curabitur ullamcorper est ultrices convallis suscipit nascetur. Ornare fames pretium ante ac eget nisi tellus vivamus, convallis mauris sapien imperdiet sollicitudin aliquet taciti quam, lacinia tempor primis magna iaculis at eu. Est facilisi proin risus eleifend orci torquent ultricies platea, quisque nullam vel porttitor euismod sociis non, maecenas sociosqu interdum arcu sed pharetra potenti. Aliquet risus tempus hendrerit sapien tellus eget cursus enim etiam dui, lobortis nostra pellentesque odio posuere morbi ad neque senectus arcu eu, turpis proin ac felis purus fames magnis dis dignissim.
-
-Orci volutpat augue viverra scelerisque dictumst ut condimentum vivamus, accumsan cum sem sollicitudin aliquet vehicula porta pretium placerat, malesuada euismod primis cubilia rutrum tempus parturient. Urna mauris in nibh morbi hendrerit vulputate condimentum, iaculis consequat porttitor dui dis euismod eros, arcu elementum venenatis varius lectus nisi. Nibh arcu ultrices semper morbi quam aptent quisque porta posuere iaculis, vestibulum cum vitae primis varius natoque conubia eu. Placerat sociis sagittis sociosqu morbi purus lobortis convallis, bibendum tortor ridiculus orci habitasse viverra dictum, quis rutrum fusce potenti volutpat vehicula. Curae porta inceptos lectus mus urna litora semper aliquam libero rutrum sem dui maecenas ligula quis, eget risus non imperdiet cum morbi magnis suspendisse etiam augue porttitor placerat facilisi hendrerit. Et eleifend eget augue duis fringilla sagittis erat est habitasse commodo tristique quisque pretium, suspendisse imperdiet inceptos mollis blandit magna mus elementum molestie sed vestibulum. Euismod morbi hendrerit suscipit felis ornare libero ligula, mus tortor urna interdum blandit nisi netus posuere, purus fermentum magnis nam primis nulla.
-
-## Elementum nisi urna cursus nisl quam ante tristique blandit ultricies eget
-
-Netus at rutrum taciti vestibulum molestie conubia semper class potenti lobortis, hendrerit donec vitae ad libero natoque parturient litora congue. Torquent rhoncus odio cursus iaculis molestie arcu leo condimentum accumsan, laoreet congue duis libero justo tortor commodo fusce, massa eros hac euismod netus sodales mi magnis. Aenean nullam sollicitudin ad velit nulla venenatis suspendisse iaculis, aliquet senectus mollis aptent fringilla volutpat nascetur, nec urna vehicula lacinia neque augue orci. Suspendisse et eleifend convallis sollicitudin posuere diam turpis gravida congue ultrices, laoreet ultricies dapibus proin facilisis magna class praesent fusce. Mus morbi magnis ultricies sed turpis ultrices tempus tortor bibendum, netus nulla viverra torquent malesuada ridiculus tempor. Parturient sociosqu erat ullamcorper gravida natoque varius, etiam habitant augue praesent per curabitur iaculis, donec pellentesque cursus suscipit aliquet. Congue curae cursus scelerisque pellentesque quis fusce arcu eros dictumst luctus ridiculus nisl viverra, turpis class faucibus phasellus feugiat eleifend fringilla orci tristique habitasse conubia quam. Habitasse montes congue sodales rutrum cras torquent cursus auctor condimentum imperdiet egestas nascetur, platea tincidunt ut sollicitudin purus libero lobortis ad nisi diam quam.

@@ -42,7 +42,7 @@ publishedBlogEntries.sort(function (a, b) {
                     class="w-full rounded-md object-cover object-center bg-white"
                   />
                   <div>
-                    <span class="text-blue-400 uppercase tracking-wider text-sm font-medium">
+                    <span class="text-purple-500 uppercase tracking-wider text-sm font-medium">
                       {blogPostEntry.data.category}
                     </span>
 
@@ -71,3 +71,22 @@ publishedBlogEntries.sort(function (a, b) {
     </main>
   </Container>
 </Layout>
+
+<style>
+
+	h1 {
+		font-size: 4rem;
+		font-weight: 700;
+		line-height: 1;
+		text-align: center;
+		margin-bottom: 1em;
+	}
+	.text-gradient {
+		background-image: var(--accent-gradient);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		background-size: 400%;
+		background-position: 0%;
+	}
+
+</style>
